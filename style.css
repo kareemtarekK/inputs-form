@@ -1,0 +1,6 @@
+h1{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: orangered;
+}
